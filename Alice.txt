@@ -4,4 +4,4 @@ Now I've added another line of text tot the file to create a pull/fetch conflict
 This is the second line in this file.
 Now I added a third line to Alice.
 Some text.
-This line was added from the Working Directory, while we didn't pull a fetch in yet.
+This line was added locally and not directly added or commited.
