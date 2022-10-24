@@ -1,2 +1,3 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 This line was added in github, to simulate someone else working on the same files.
+Now I've added another line of text tot the file to create a pull/fetch conflict.
